@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".pantalla2">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#6200ee">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:text="Parcial1"
+            android:textSize="22dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00dac5"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textSize="25sp"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:text="Diego Manuel Rojas Velandia" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textSize="15sp"
+        android:layout_marginTop="14dp"
+        android:layout_marginRight="85dp"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:text="Respuestas de la practica" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:textSize="15sp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="115dp"
+        android:textColor="@color/black"
+        android:text="1. c)" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:textSize="15sp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="115dp"
+        android:textColor="@color/black"
+        android:text="2. c)" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:textSize="15sp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="115dp"
+        android:textColor="@color/black"
+        android:text="3. c) " />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:textSize="15sp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="115dp"
+        android:textColor="@color/black"
+        android:text="4.b) " />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:textSize="15sp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="115dp"
+        android:textColor="@color/black"
+        android:text="5. c)" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:textSize="15sp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="115dp"
+        android:textColor="@color/black"
+        android:text="6. a)" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:textSize="15sp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="115dp"
+        android:textColor="@color/black"
+        android:text="7. c)" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:textSize="15sp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="115dp"
+        android:textColor="@color/black"
+        android:text="8. b)" />
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
